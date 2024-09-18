@@ -1,0 +1,5 @@
+Molecule ChEMBL ID,Smiles,IC50 EGFR,IC50 MAPK1,IC50 SRC
+CHEMBL388978,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,78.0,370.0,9.7
+CHEMBL4062877,Cc1n[nH]c2ccc(-c3cc(N[C@@H](CO)c4ccccc4)cnc3-c3cc(F)ccc3O)cc12,5.3,574.7,5.7
+CHEMBL4105329,Cc1n[nH]c2ccc(-c3cc(N[C@@H](CO)c4ccccc4)cnc3-c3cc(Cl)ccc3O)cc12,3.1,960.2,3.9
+CHEMBL4568087,Cn1cc(-c2cnc3c(-c4csc(C(=O)N[C@@H]5CCCC[C@@H]5N)c4)cnn3c2)cn1,340.0,230.0,3.0
